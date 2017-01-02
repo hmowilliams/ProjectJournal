@@ -1,0 +1,55 @@
+.main {
+  justify: full;
+}
+.header {
+  text-align: center;
+}
+.inspiration {
+  text-align: center;
+}
+.prompt {
+  font-family: Sans-Serif;
+  font-size: 36px;
+  color: grey;
+}
+.journal-text {
+  font-family: Sans-Serif;
+  font-size: 12px;
+  color: grey;
+  text-align: justify;
+}
+.inspiration1 {
+  border-color: pink;
+  border-style: solid;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.inspiration2 {
+  border-color: blue;
+  border-style: solid;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.inspiration3 {
+  border-color: green;
+  border-style: solid;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.inspiration4 {
+  border-color: yellow;
+  border-style: solid;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.inspiration5 {
+  border-color: purple;
+  border-style: solid;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
